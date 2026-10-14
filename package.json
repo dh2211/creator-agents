@@ -1,0 +1,18 @@
+{
+  "name": "creator-agents",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Agent Skills that help YouTubers, podcasters, and creators draft scripts, titles, social posts, calendars, and brand pitches in their own voice.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "devDependencies": {
+    "yaml": "^2.9.1"
+  }
+}
