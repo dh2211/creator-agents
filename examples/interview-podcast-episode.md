@@ -52,13 +52,17 @@ Invented show "Small Rooms", a podcast about people who run tiny venues. Skills 
 
 > This is Small Rooms. Today, Mara, who went from behind the sound desk to owning the room.
 
-## Show notes, after recording
+## Request, after recording
 
-The host gave this transcript excerpt with times:
-
+> Here's a transcript excerpt with times. Write the show notes and find clips.
+>
 > [12:40] "I book the band I'd pay to see on a Tuesday."
+>
 > [27:15] "Sixty seats means every bad note is a shared secret."
+>
 > [38:02] "Past me: the bar keeps the lights on, the music keeps the doors open."
+
+## Show notes (creator-podcast-episode)
 
 Summary: Mara, owner of a 60-seat jazz room and a former sound engineer, talks about booking local acts and why small rooms work.
 

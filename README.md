@@ -1,6 +1,6 @@
 # creator-agents
 
-CreatorKit: free, open-source Agent Skills that help YouTubers, podcasters, and creators draft video and podcast scripts, SEO titles and descriptions, social posts from long-form content, posting calendars, and brand-pitch emails, all from their own ideas and in their own voice.
+CreatorAgentsKit: free, open-source Agent Skills that help YouTubers, podcasters, and creators draft video and podcast scripts, SEO titles and descriptions, social posts from long-form content, posting calendars, and brand-pitch emails, all from their own ideas and in their own voice.
 
 Each skill is a folder with a `SKILL.md` file in the open [Agent Skills](https://agentskills.io/specification) format. Claude Code, Codex, Cursor, Grok, OpenCode, and other agents that read that format document a folder for these files. You bring your own AI tool, install the skills once, then ask in plain English: "Turn this transcript into five posts for my channels."
 
